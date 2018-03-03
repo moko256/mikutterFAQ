@@ -6,5 +6,4 @@
 * RxJava
 * RxAndroid
 * Data Binding
-* Gradle Retrolambda Plugin
 * Android Compatibility Library
